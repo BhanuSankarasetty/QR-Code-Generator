@@ -53,10 +53,10 @@ http://localhost:5173
 ## 📸 Screenshots
 Home Page
 ![App Screenshot](./public/qrcodegen.png)
-QR Code Example
+
 
 ## 📚 Learning Goals
-This project was created to learn how QR codes can be integrated into web apps.
+This project was created to learn how QR codes can be integrated into web apps. 
 Key takeaways:
 
 - Using third-party React components (qrcode.react)
